@@ -15,7 +15,7 @@ public class Main {
         l[0].folhear(400);
         System.out.println(l[0].detalhes());
 
-        
+
         System.out.println(l[1].detalhes());
 
     }
